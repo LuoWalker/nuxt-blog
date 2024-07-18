@@ -1,6 +1,6 @@
 export const siteConfig = {
-  author: 'Rock Chen',
-  title: 'Rock Chen - Blog',
+  author: 'Walker Luo',
+  title: 'Walker Luo - Blog',
   description: 'My blog site.',
   lang: 'zh-CN',
 }
@@ -51,23 +51,13 @@ export const navLinks = [
 
 export const socialLinks = [
   {
-    title: '掘金',
-    path: 'https://juejin.cn/user/3826745248595550',
-    icon: 'i-simple-icons-juejin',
-  },
-  {
     title: 'Bilibili',
-    path: 'https://space.bilibili.com/3850132',
+    path: 'https://space.bilibili.com/36838956',
     icon: 'i-simple-icons-bilibili',
   },
   {
-    title: 'Twitter',
-    path: 'https://twitter.com/Rockchen97',
-    icon: 'i-simple-icons-twitter',
-  },
-  {
     title: 'Github',
-    path: 'https://github.com/chansee97',
+    path: 'https://github.com/LuoWalker',
     icon: 'i-icon-park-outline-github',
   },
 ]
@@ -77,29 +67,24 @@ export const projectList = [
     name: 'Projects',
     content: [
       {
-        name: 'Nuxt Blog',
-        desc: 'My blog site, base on Nuxt',
-        path: 'https://github.com/chansee97/nuxt-blog',
+        name: 'Fastman',
+        desc: '基于SpringBoot+Vue的校园生活平台',
+        path: 'https://github.com/LuoWalker/fastman',
       },
       {
-        name: 'Nova Admin',
-        desc: 'a complete admin template',
-        path: 'https://github.com/chansee97/nova-admin',
-      },
-      {
-        name: 'Nova Admin Nest',
-        desc: 'The nest backend for nova admin',
-        path: 'https://github.com/chansee97/nove-admin-nest',
+        name: 'Cow-pointmlp',
+        desc: '基于PointMLP的奶牛背膘测量模型',
+        path: 'https://github.com/LuoWalker/pointmlp-reg',
       },
     ],
   },
   {
-    name: 'Starter',
+    name: 'Acknowledgments',
     content: [
       {
-        name: 'Virtuoso',
-        desc: 'My simply vue starter',
-        path: 'https://github.com/chansee97/virtuoso',
+        name: 'Nuxt Blog',
+        desc: 'the template of blog site, base on Nuxt',
+        path: 'https://github.com/chansee97/nuxt-blog',
       },
     ],
   },

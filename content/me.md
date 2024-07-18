@@ -1,7 +1,7 @@
-# Rock Chen
+# Walker Luo
 
-I'm Rock Chen 😪, a front-end developer
+I'm Walker Luo 😪, a master student
 
 My blog is where I post my work-in-progress ideas, practice notes, and explorations in my free time
 
-If you have any questions, comments, or want to bounce ideas and collaborate, feel free to 📨chen.dev@foxmail.com
+If you have any questions, comments, or want to bounce ideas and collaborate, feel free to 📨luowenkuo@hotmail.com
